@@ -1,1 +1,2 @@
-# Bewildering_Java_200_Questions
+# 알쏭달쏭 자바 200제 
+코드 확인를 위해 사용한 테스트 코드입니다.
